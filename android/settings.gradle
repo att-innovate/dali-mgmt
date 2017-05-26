@@ -1,0 +1,3 @@
+rootProject.name = 'DaliMgmt'
+
+include ':app'
